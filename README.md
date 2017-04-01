@@ -8,7 +8,7 @@ O computador preparou esta aventura-solo para divertir você, cidadão. Tome sua
 
 Tenha um boa aventura, cidadão.
 
-[Começe aqui.](1.md)
+[Começe aqui.](https://joaopaulog.github.io/paranoia/1.html)
 
 ### Disclaimer!
 

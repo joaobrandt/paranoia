@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Um dia no Complexo Alfa
 
-You can use the [editor on GitHub](https://github.com/joaopaulog/paranoia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+***Este é o Complexo Alfa. Uma metrópole futurista controlada por um computador louco, que se comporta como um tirano fascista.  Totalmente paranóico, o Computador vê traidores em toda parte e zela pela felicidade dos cidadãos - nem que pare isso precise matar todos! Você é feliz cidadão? Não?! ZIOUF! Você foi desintegrado, um clone está vindo substituí-lo...***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O Complexo Alfa é completamente fechado, sem regiões ao ar livre. Um vasto labirinto de corredores coloridos. As pessoas são classificadas por cores que determinam seus níveis de segurança, de acordo com os critérios do Computador. Desobedecer a um cidadão de Nível de Segurança superior ao seu é traição. Ser comunista é traição (embora você nem faça idéia do que seja um comunista). Pertencer a uma sociedade secreta é traição. Traição é punida com a morte.
 
-### Markdown
+O computador preparou esta aventura-solo para divertir você, cidadão. Tome suas decisões e siga as instruções. Deixar de seguir as instruções é traição. Traição é punida com a morte.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tenha um boa aventura, cidadão.
 
-```markdown
-Syntax highlighted code block
+[Começe aqui.](1.md)
 
-# Header 1
-## Header 2
-### Header 3
+### Disclaimer!
 
-- Bulleted
-- List
+Essa aventura foi publicada na revista [Dragão Brasil](https://pt.wikipedia.org/wiki/Dragão_Brasil) Nº 96, assinado por GRAHAL.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joaopaulog/paranoia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Obrigado ao trio Marcelo Cassaro, Rogério Saladino e J.M. Trevisan pelos saudodos textos da revista!
